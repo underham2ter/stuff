@@ -1,10 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/qPjGOCCr)
+![распределение h и χ Персея](https://github.com/underham2ter/stuff/blob/main/hw4-2023-underham2ter/per.png?raw=true)
+
 # Домашнее задание № 4
 ## Восстановление параметров статистического распределения
 
 В этом задании вы будете восстанавливать параметры смешанных статистических распределений, используя два метода: метод максимального правдоподобия и EM-метод. Научным заданием будет выделение двух рассеянных скоплений  [h и χ Персея](https://apod.nasa.gov/apod/ap091204.html) в звёздном поле.
-
-**Дедлайн 20 апреля в 23:55**
 
 Вы должны реализовать следующие алгоритмы в файле `mixfit.py`:
 
